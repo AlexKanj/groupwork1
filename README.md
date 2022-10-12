@@ -1,2 +1,2 @@
 # groupwork1
-First Group Work
+This code takes in your name and age, then prints out a prompt which prints out both together
